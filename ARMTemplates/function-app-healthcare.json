@@ -7,11 +7,11 @@
             "type": "String"
         },
         "serverfarms_healthcare_api_prod_eastus_externalid": {
-            "defaultValue": "/subscriptions/0c0c4cf4-12e5-4d96-862a-655e121e073b/resourceGroups/healthcare-api-prod-eastus/providers/Microsoft.Web/serverfarms/healthcare-api-prod-eastus",
+            "defaultValue": "/subscriptions/53fc8dbf-e792-416e-937b-be3bbda4b0d0/resourceGroups/healthcare-api-prod-eastus/providers/Microsoft.Web/serverfarms/healthcare-api-prod-eastus",
             "type": "String"
         },
         "virtualNetworks_EUSVN_externalid": {
-            "defaultValue": "/subscriptions/0c0c4cf4-12e5-4d96-862a-655e121e073b/resourceGroups/EUSRG/providers/Microsoft.Network/virtualNetworks/EUSVN",
+            "defaultValue": "/subscriptions/53fc8dbf-e792-416e-937b-be3bbda4b0d0/resourceGroups/EUSRG/providers/Microsoft.Network/virtualNetworks/EUSVN",
             "type": "String"
         }
     },
